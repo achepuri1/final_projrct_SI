@@ -19,7 +19,7 @@ Analyze an image to retrieve valuable information about its content.
 - **Body Parameters:**
   - Name: imageUrl
   - Description: URL of the image to be analyzed
-  - Example: `{ "imageUrl": "https://www.media.io/imagesV3/img-shiyitu1.png" }`
+  - Example: `{ "imageUrl": "[https://www.media.io/imagesV3/img-shiyitu1.png](https://images.unsplash.com/photo-1681259628150-0127dc5620b8?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }`
 
 #### Example Request
 
